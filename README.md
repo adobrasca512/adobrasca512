@@ -1,4 +1,4 @@
-![](Portada%20de%20Facebook%20de%20agradecimiento%20para%20madres%20floral%20rosa.png)
+
 <h1 align="center" style="font-family: 'Neonderthaw', cursive;">Hi 👋, I'm Adilem Dobras</h1>
 <h3 align="center">I am a student at the European University. I am currently in progress of becoming a computer engineer</h3>
 
