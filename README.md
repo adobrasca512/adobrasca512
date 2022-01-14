@@ -9,7 +9,7 @@
 - 💻 Actualmente estudio Ingeniería Informática y aun tengo mucho por aprender<br>
 -🌱 Estos meses he aprendido **Front-end, Back-end, Web Scraping** y por mi cuenta hosting con aws<br>
 -💃 Pero no solo soy una común excelente futura ingeniera informatica, sino que tambien estoy tomando una carrera en baile <br>
-- 👎 Mi mayor defecto es que no soy buena cocinando...hasta el agua se me quema<br>
+- 👎 Mi mayor defecto es que no soy buena cocinando...de echo ayer explote una salchicha en el microondas...no sabia que eso podia pasar<br>
 - 📫 Aunque todo salga mal, siempre me puedes contactar a mi email **adobrasca@gmail.com** y quedarnos hasta las 4 am programando juntos (Para mi suena romantico)<br>
 
 
