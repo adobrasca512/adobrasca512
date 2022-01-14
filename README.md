@@ -1,4 +1,4 @@
-
+![](imagen.png)
 <h1 align="center" style="font-family: 'Neonderthaw', cursive;">Hi 👋, I'm Adilem Dobras</h1>
 <h3 align="center">I am a student at the European University. I am currently in progress of becoming a computer engineer</h3>
 
